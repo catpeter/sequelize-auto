@@ -188,3 +188,8 @@ You must setup a database called `sequelize_auto_test` first, edit the `test/con
 ## Projects Using Sequelize-Auto
 
 * [Sequelizer](https://github.com/andyforever/sequelizer)
+
+
+
+pyw
+sequelize-auto  -t tableName
